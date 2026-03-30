@@ -108,6 +108,6 @@ A. Virtualization is the process of creating a virtual (software-based) version 
     > Easy mangement
 
 
-## * HOw it works
+## * How it works
     > A special software called Hypervisor is used to create and manage virtual machines.
     > It sits between hardware and virtual Machines.
