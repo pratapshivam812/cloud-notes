@@ -50,3 +50,64 @@ A. Cloud computing is the delivery of computing services like servers, storage, 
       > Delivers fully managed, ready-to-use software applications over the internet
       > Usage: CRM, email, productivity tools
       > Examples: Salesforce, Microsoft 365, Dropbox
+
+
+## * Uses
+      > Data Storage
+      > Web hosting
+      > App development
+      > Backup & recovery
+      > Streaming services
+
+
+## * Advantages of Cloud Computing
+      > Cost Effective
+      > Scalable
+      > Easy backup and recovery
+      > Global access
+      > Automatic update
+
+
+## * Disadvantagess of Cloud Computing
+      > Internet dependency
+      > Security concerns
+      > Downtime risks
+
+
+## * Real-Life Examples
+      > Storing fileson Google Drive
+      > Watching movies on netflix
+      > Using Gmail
+
+
+## * Characteristics of Cloud Computing
+      > On-demand self-service → Users can access resources without human interaction  
+      > Broad network access → Accessible from mobile, laptop, etc.  
+      > Resource pooling → Multiple users share same resources  
+      > Rapid elasticity → Scale up/down quickly  
+      > Measured service → Pay only for what you use
+
+
+## * Real Cloud Providers
+      > AWS (Amazon Web Servicse)
+      > Microsoft Azure
+      > GCP (Google Cloud Platform)
+
+
+
+**Q. What is virtualization?
+A. Virtualization is the process of creating a virtual (software-based) version of physical resources like servers, storage, or operating systems.
+   It allows multiple virtual systems to run on a single physical machine.
+
+
+## * Key Features
+    > Multiple OS on one machine
+    > Better resource utilization
+    > Cost reduction
+    > Isolation between systems
+    > Easy mangement
+
+
+## * HOw it works
+    > A special software called Hypervisor is used to create and manage virtual machines.
+    > It sits between hardware and virtual Machines.
