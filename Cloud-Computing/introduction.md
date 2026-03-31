@@ -111,3 +111,15 @@ A. Virtualization is the process of creating a virtual (software-based) version 
 ## * How it works
     > A special software called Hypervisor is used to create and manage virtual machines.
     > It sits between hardware and virtual Machines.
+
+
+
+## * Types of Virtualization
+     > Server Virtualization → Multiple servers on one machine
+     > Storage Virtualization → Combines storage from different devices
+     > Network Virtualization → Creates virtual networks
+     > Desktop Virtualization → Virtual desktops for users
+
+
+
+
