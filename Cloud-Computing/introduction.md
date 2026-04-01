@@ -122,4 +122,35 @@ A. Virtualization is the process of creating a virtual (software-based) version 
 
 
 
+## * Types of Hypervisor
+      Type 1 (Bare Metal)
+      > Runs directly on hardware
+      > More efficient
+      > Example: VMware ESXi
+
+     Type 2 (Hosted)
+     > Rons on top OS
+     > Less efficient
+     > Example: VirtualBox
+
+
+## * Advantages
+      > Cost Saving
+      > Better resources usage
+      > Easy backup and recovery
+      > Scalability
+      > Faster deployment
+
+
+## * Disadvantages
+      > Initial setup cost
+      > Performance overhead
+      > Security risks if not managed properly
+
+
+## * Real-Life Examples 
+      > Runnig Windows and Linux on same computer
+      > Using VirtualBox
+      > Cloud providers using virtualization
+
 
