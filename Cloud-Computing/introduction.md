@@ -1,5 +1,5 @@
 **Q. What is Cloud Computing?
-A. Cloud computing is the delivery of computing services like servers, storage, databases, networking, and software over the internet
+   A. Cloud computing is the delivery of computing services like servers, storage, databases, networking, and software over the internet
    Instead of owning physical hardware, users can rent from cloud providers
 
 
@@ -154,3 +154,61 @@ A. Virtualization is the process of creating a virtual (software-based) version 
       > Cloud providers using virtualization
 
 
+## * Q. What is AWS?
+   A. AWS(Amazon Web Services) is a cloud cmputing platform that provides various services like computing power, storage, databases, and networking over the internet.
+   > It is the most widely used cloud platform in the world.
+
+
+## * Key features
+      >> On-demand services
+      >> Pay-as-you-go pricing
+      >> Highly scalble
+      >> Secure and reliable
+      >> Global infrastructure
+
+      
+## * Global Infrastructure
+   AWS has:
+      > Regions - Different geographical areas(e.g., Asia, US)
+      > Availability Zones (AZs) - Data Centres within a region
+
+
+## * Core AWS Services
+   > Compute
+      EC2 - Virtual Servers
+   > Storage
+      S3 - Object Storage
+   > Databases
+      RDS - Managed Databse Services
+   > Networking
+      VPC - Virtual Network
+
+
+## * Popular AWS Services
+      > EC2 - Virtual machines
+      > S3 - Storage
+      > IAM - Security and access control
+      > RDS - Database
+      > VPC - Networking
+
+
+## * Advantages
+   > Cost-effective
+   > Scalable
+   > Highly secure
+   > Easy Deployment
+   > Global reach
+
+
+## * Disadvantages
+   > Complex for beginners
+   > Cost management can be tricky
+   > Internet dependency
+
+
+## * Real-Life Uses
+   > Hosting websites
+   > Running application
+   > Data storage
+   > Backup system
+   > Big companies using AWS (Netflix, Amazon)
