@@ -193,22 +193,22 @@ A. Virtualization is the process of creating a virtual (software-based) version 
 
 
 ## * Advantages
-   > Cost-effective
-   > Scalable
-   > Highly secure
-   > Easy Deployment
-   > Global reach
+      > Cost-effective
+      > Scalable
+      > Highly secure
+      > Easy Deployment
+      > Global reach
 
 
 ## * Disadvantages
-   > Complex for beginners
-   > Cost management can be tricky
-   > Internet dependency
+      > Complex for beginners
+      > Cost management can be tricky
+      > Internet dependency
 
 
 ## * Real-Life Uses
-   > Hosting websites
-   > Running application
-   > Data storage
-   > Backup system
-   > Big companies using AWS (Netflix, Amazon)
+      > Hosting websites
+      > Running application
+      > Data storage
+      > Backup system
+      > Big companies using AWS (Netflix, Amazon)
