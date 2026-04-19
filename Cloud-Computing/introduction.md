@@ -1,4 +1,4 @@
-**Q. What is Cloud Computing?
+## * Q. What is Cloud Computing?
    A. Cloud computing is the delivery of computing services like servers, storage, databases, networking, and software over the internet
    Instead of owning physical hardware, users can rent from cloud providers
 
