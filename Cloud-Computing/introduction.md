@@ -169,19 +169,19 @@ A. Virtualization is the process of creating a virtual (software-based) version 
       
 ## * Global Infrastructure
    AWS has:
-      > Regions - Different geographical areas(e.g., Asia, US)
-      > Availability Zones (AZs) - Data Centres within a region
+         > Regions - Different geographical areas(e.g., Asia, US)
+         > Availability Zones (AZs) - Data Centres within a region
 
 
 ## * Core AWS Services
-   > Compute
-      EC2 - Virtual Servers
-   > Storage
-      S3 - Object Storage
-   > Databases
-      RDS - Managed Databse Services
-   > Networking
-      VPC - Virtual Network
+      > Compute
+         EC2 - Virtual Servers
+      > Storage
+         S3 - Object Storage
+      > Databases
+         RDS - Managed Databse Services
+      > Networking
+         VPC - Virtual Network
 
 
 ## * Popular AWS Services
